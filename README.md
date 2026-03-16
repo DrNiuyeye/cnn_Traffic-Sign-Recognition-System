@@ -9,7 +9,7 @@
 - 基于PyQt5的图形用户界面
 
 ## 效果展示
-| ![原图](images/enhanced.png) 
+![原图](images/enhanced.png) 
 
 *注：上方为同一交通标志图像在CLAHE增强前后的对比效果*
 
@@ -18,7 +18,7 @@
 - 绘制方框标记交通标志位置
 - 根据方框坐标切割出感兴趣区域（ROI）
 
-| ![原图](images/split.png) 
+![原图](images/split.png) 
 
 ## 数据集
 
