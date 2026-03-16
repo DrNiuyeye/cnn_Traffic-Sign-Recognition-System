@@ -12,7 +12,7 @@
 
 | 原图 | 经CLAHE增强后图 |
 |:----:|:---------------:|
-| ![原图](images/enhanced.jpg) 
+| ![原图](images/enhanced.png) 
 
 *注：上方为同一交通标志图像在CLAHE增强前后的对比效果*
 
